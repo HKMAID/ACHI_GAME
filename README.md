@@ -1,5 +1,7 @@
 # Présentation :
-Achi est un jeu en 2D, programmé en langague C en se servant de la bibliothèque SDL (Simple DirectMedia Layer) pour le représenter graphiquement. Le jeu a deux modes, le premier, le joueur joue contre un autre joueur, et l'autre, le joueur joue contre l'IA. Le jeu a évidemment suit des règles précises et se déroule en des deux phases définies. Pour le mode IA, l'algorithme de recherche MINMAX a été implémenté, nécessitant l'utilisation de structures de données et les concepts algorithmiques traitéés tout au long de mon parcours universitaire (Arbres, récursevité, graphes,etc.). 
+Achi est un jeu en 2D, programmé en langage C en se servant de la bibliothèque SDL (Simple DirectMedia Layer) pour le représenter graphiquement. 
+
+Le jeu a deux modes, JvJ et joueur contre l'IA. Le jeu évidemment suit des règles précises et se déroule en deux phases définies.
 
 # Compilation et exécution :
 Depuis le terminal, en icluant la bibliothèque SDL et ses fichiers d'en-tête comme arguments.
